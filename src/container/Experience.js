@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
 import Aux from '../hoc/Aux';
-import { Link } from 'react-router-dom';
 import { Card, Nav, Container, Row, Col } from 'react-bootstrap';
 import './resume.css';
 import Dl from '../Images/1.png';
 import Dm from '../Images/2.png';
 import Dn from '../Images/3.png';
 import Do from '../Images/4.png';
-import Dq from '../Images/5.png';
+// import Dq from '../Images/5.png';
 import { SocialIcon } from 'react-social-icons';
 
 
