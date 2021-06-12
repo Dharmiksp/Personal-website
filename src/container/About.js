@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Dp from '../Images/Dharmik.png'
 import Aux from '../hoc/Aux';
-import { Link } from 'react-router-dom';
 import { Image, Nav, Container, Row, Col } from 'react-bootstrap';
 import './resume.css'
 import { SocialIcon } from 'react-social-icons';
