@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Aux from '../hoc/Aux';
-import { Link } from 'react-router-dom';
 import { Card, Nav, Container, Row, Col } from 'react-bootstrap';
 import './resume.css';
 import SDA from '../Images/sda.png';
